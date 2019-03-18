@@ -64,5 +64,12 @@ export default {
     */
     extend(config, ctx) {
     }
+  },
+
+  /*
+  ** Router configuration
+   */
+  router: {
+    base: '/dpt-bingo/'
   }
 }
